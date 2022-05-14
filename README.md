@@ -1,6 +1,6 @@
 Hi, This is Advait Singh from Jammu. 
 I am a first year student from SRM university KTR doing Bacherlors in computer Science Engineering with specialisation in Software engineering.
-I am 17 years old and im currently im learning C/C++. 
+I am 18 years old and im currently im learning C/C++. 
 I have also know js a little bit. 
 I have been passionate about web developement and i'm also curious about the metaverse.
 This is it from my side. 
