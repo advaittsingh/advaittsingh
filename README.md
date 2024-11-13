@@ -1,9 +1,18 @@
-I am a dedicated and passionate iOS app developer with a strong foundation in Swift and experience in creating user-friendly mobile applications.
-My journey in technology began with a deep curiosity about how apps work, which led me to develop my own projects, ranging from e-commerce platforms to news readers. 
-I enjoy problem-solving and continuously seek to learn and adapt to new technologies.
-Beyond coding, I value teamwork and believe in the power of collaboration to drive innovation. 
-I am eager to leverage my skills to contribute to meaningful projects and grow as a developer in a dynamic environment.
-<!---
-advaittsingh/advaittsingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# ADVAIT SINGH
+
+**`Digital Craftsman (Developer)`**
+
+Experienced app developer skilled in iOS and web technologies, specializing in AI-driven solutions, e-commerce, and content platforms. Proficient in Swift, React, and RESTful APIs to build user-centric applications.
+
+### 🧰 Languages and Tools
+
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<br />
